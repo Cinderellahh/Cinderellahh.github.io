@@ -91,7 +91,7 @@ body {
 .inner .logo {
 	width: 56px;
 	height: 56px;
-	background-image: url(需要的图片/images/logo_03.png);
+	background-image: url(image/images/logo_03.png);
 	float: left;
 	margin: 22px 168px 0 0;
 }
@@ -127,7 +127,7 @@ body {
 	display: block;
 	border: 1px solid #e0e0e0;
 	margin-left: -1px;
-	background: pink url("需要的图片/fangdajin.png")  center center no-repeat;
+	background: pink url("image/fangdajin.png")  center center no-repeat;
 }
 
 /**/
@@ -137,7 +137,7 @@ body {
 .main .bg {
 	height: 460px;
 	height: 100%;
-	background-image: url(需要的图片/小米笔记本.jpg);
+	background-image: url(image/小米笔记本.jpg);
 } 
 .main .bg .box-l {
 	width: 234px;
@@ -262,7 +262,7 @@ body {
 .fourbox li.jinlin .tu {
 	width: 28px;
 	height: 28px;
-	background: url("需要的图片/sq.png") no-repeat;
+	background: url("image/sq.png") no-repeat;
 	margin: 0 auto;
 }
 .fourbox li.jinlin div a {
@@ -280,15 +280,15 @@ body {
 }
 /*精灵图结束*/
 .fourbox .mi li:nth-child(2) {
-	background-image: url(需要的图片/红米.jpg);
+	background-image: url(image/红米.jpg);
 }
 
 .fourbox  .mi li:nth-child(3) {
-	background-image: url(需要的图片/max2.jpg);
+	background-image: url(image/max2.jpg);
 }
 .fourbox  .mi li:last-child {
 	margin-right: 0px;
-	background-image: url("需要的图片/小米路由器3.jpg");
+	background-image: url("image/小米路由器3.jpg");
 }
 
 /*明星产品*/
@@ -319,7 +319,7 @@ body {
 }
 .star .product li:first-child {
 	border-top-color: #ffac13;
-	background: #fafafa url("需要的图片/牙刷.png") 0 0 no-repeat;
+	background: #fafafa url("image/牙刷.png") 0 0 no-repeat;
 	background-size: contain;
 }
 .star .product li a h5 {
@@ -341,22 +341,22 @@ body {
 	}
 .star .product li:nth-child(2) {
 	border-top-color: #2196f3;
-	background: #fafafa url("需要的图片/手环.png") 0 0 no-repeat;
+	background: #fafafa url("image/手环.png") 0 0 no-repeat;
 	background-size: contain;
 }
 .star .product li:nth-child(3) {
 	border-top-color: #e53935;
-	background:#fafafa url("需要的图片/电饭锅.jpg") 0 0 no-repeat;
+	background:#fafafa url("image/电饭锅.jpg") 0 0 no-repeat;
 	background-size: contain;
 }
 .star .product li:nth-child(4) {
 	border-top-color: #00c0a5;
-	background:#fafafa url("需要的图片/净化器.png") 0 0 no-repeat;
+	background:#fafafa url("image/净化器.png") 0 0 no-repeat;
 	background-size: contain;
 }
 .star .product li:nth-child(5) {
 	border-top-color: #ffac13;
-	background:#fafafa url("需要的图片/路由器.png") 0 0 no-repeat;
+	background:#fafafa url("image/路由器.png") 0 0 no-repeat;
 	margin-right: 0px;
 	background-size: contain;
 }
@@ -407,7 +407,7 @@ body {
 .housemain .nb1 a {
 	height: 615px;
 	width: 234px;
-	background: url("需要的图片/米家空气净化器.jpg") 0 0 no-repeat;
+	background: url("image/米家空气净化器.jpg") 0 0 no-repeat;
 	background-size: contain;
 	display: block;
 }
@@ -505,7 +505,7 @@ body {
 .footer .f-logo a {
 	width: 56px;
 	height: 56px;
-	background: url("需要的图片/images/logo_03.png");
+	background: url("image/images/logo_03.png");
 	position: absolute;
 	top: 30px;
 	left: 0;
@@ -551,22 +551,22 @@ body {
 	top: 36px;
 }
 .footer .tubiao a:first-child {
-	background: url("需要的图片/隐私.png");
+	background: url("image/隐私.png");
 	background-size: contain;
 	right: 284px;
 }
 .footer .tubiao a:nth-child(2) {
-	background: url("需要的图片/隐私.png");
+	background: url("image/隐私.png");
 	background-size: contain;
 	right: 190px;
 }
 .footer .tubiao a:nth-child(3) {
-	background: url("需要的图片/可信.png");
+	background: url("image/可信.png");
 	background-size: contain;
 	right: 96px;
 }
 .footer .tubiao a:nth-child(4) {
-	background: url("需要的图片/保障.png");
+	background: url("image/保障.png");
 	background-size: contain;
 	right: 0px;
 }
